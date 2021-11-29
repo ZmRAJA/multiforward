@@ -14,7 +14,7 @@ if __name__ == "__main__":
         root="plugins"
     )
     app = pyrogram.Client(
-        "tg-channel-forward-robot",
+        "Mtautoforwardbot",
         bot_token=Config.TG_BOT_TOKEN,
         api_id=Config.APP_ID,
         api_hash=Config.API_HASH,
