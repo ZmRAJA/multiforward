@@ -4,9 +4,9 @@ class Translation(object):
            "2️⃣ <b>Replay 👉 /send command to any Telegram media to forward the message to default channel." \
            "</b>\n\n3️⃣  <b>Select command 👉 /view to view the default forwarding channel.</b>\n\n" \
            "4️⃣ <b>Channel1 is mandatory and others are optionals. Configure ENV carefully for the smooth working." \
-           "</b>\n\n5️⃣ <b>You can see my repo [Here](https://github.com/m4mallu/multi-channel-forward-bot)</b>\n\n" \
+           "</b>\n\n5️⃣ <b>You can see my repo [Here](https://github.com)</b>\n\n" \
            "<b>For any suggestions and feedbacks, feel free to contact my developer [Here](" \
-           "https://t.me/space4renjith)</b> "
+           "http://t.me/Mtautoforwardbot)</b> "
     SUCCESSFUL_SEND = "<code>Forwarded Successfully to:</code>\n<b>{}</b>"
     FORWARD_ERROR = "<code>Make Sure That I am Admin in Your Channel or Provided Channel ID is Correct.</code>"
     CHANNEL_CONFIRM = "<code>Now I'll forward messages to:</code>\n👉 <b>{}</b>"
