@@ -46,7 +46,7 @@ CHANNEL5_NAME - Name of your channel (Optional)
 
 ### Deploying on Heroku (Easy Way):
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/m4mallu/multi-channel-forward-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZmRAJA/multiforward)
 
 ### On Linux PCs or VPS (Legendary Way):
 - Create a ```config.py``` file with the environment variables.
@@ -59,10 +59,3 @@ pip3 install -r requirements.txt
 python3 bot.py
 ```
 
-### Developed By:
-[Mallu Boy](https://github.com/m4mallu) as [Renjith](https://t.me/space4renjith) on Tg
-
-### Courtesy:
-[Adithyan](https://github.com/Adithyan1133-ctrl) for his [Channel Forward Bot](https://github.com/Adithyan1133-ctrl/CHNL-Forward-Bot)
-
-[Dan](https://t.me/huskell) for his [Pyrogram](https://github.com/pyrogram/pyrogram) Library
