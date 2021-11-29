@@ -15,5 +15,5 @@ async def help_me(bot, update):
     await bot.delete_messages(chat_id=update.chat.id, message_ids=update.message_id)
     await bot.delete_messages(chat_id=update.chat.id, message_ids=update.message_id)
     a = await bot.send_message(chat_id=update.chat.id, text=Translation.HELP, disable_web_page_preview=True)
-    time.sleep(60)
+    time.sleep(10)
     await a.delete()
