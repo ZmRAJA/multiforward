@@ -8,8 +8,8 @@
         "forward",
         "robot"
     ],
-    "website": "https://github.com/m4mallu/multi-channel-forward-bot",
-    "repository": "https://github.com/m4mallu/multi-channel-forward-bot",
+    "website": "https://github.com/zmraj/multiforward.git",
+    "repository": "https://github.com/zmraj/multiforward.git",
     "env": {
         "TG_BOT_TOKEN": {"description": "Your Bot Token", "required": true},
         "APP_ID": {"description": "Your APP ID", "required": true},
